@@ -31,10 +31,11 @@ for this purpose.
 Developed By : DHARSHAN D
 Register No. : 212223230045
 ```
-### Result:
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/811b8197-c33c-4fa1-95bf-d5192b18b5a2" />
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/ae6edd4e-649e-4c4b-b2eb-49eb8a7269f6" />
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/dc6d05bc-f781-4600-b59e-babd209f73e6" />
 
+### Result:
+Thus, preprocessing techniques have been implemented using RapidMiner Successfully.
 
